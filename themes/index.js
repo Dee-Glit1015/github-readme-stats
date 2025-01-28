@@ -19,10 +19,10 @@ export const themes = {
     bg_color: "ffffff00",
   },
   shadow_red: {
-    title_color: "9A0000",
-    text_color: "444",
-    icon_color: "4F0000",
-    border_color: "4F0000",
+    title_color: "9F0000",
+    text_color: "445",
+    icon_color: "4D0000",
+    border_color: "4D0000",
     bg_color: "ffffff00",
   },
   shadow_green: {
